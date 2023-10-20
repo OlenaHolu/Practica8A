@@ -1,2 +1,2 @@
 # Practica8A
-Practica 8A Crear repositorios en GitHub 2
+Es la practica de classe sobre Crear repositorios en GitHub 2
