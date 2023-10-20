@@ -1,2 +1,5 @@
 # Estados
-👩🏼‍💻 hoy me quedo aqui 🌎 💻 🤓
+👩🏼‍💻 
+🌎 
+💻 
+🧐 hoy me quedo aqui
